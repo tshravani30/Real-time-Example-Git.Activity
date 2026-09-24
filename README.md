@@ -597,8 +597,3 @@ Data analysis
 
 Together, these programs provide practical experience in designing and implementing C++ solutions for real-world-style problems.
 
-Student Information
-
-Field
-
-Details
